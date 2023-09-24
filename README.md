@@ -1,4 +1,8 @@
 # Rodar a aplicação
 
-`.\.venv\Scripts\Activate`
-`uvicorn app.main:app --reload`
+```properties
+    .\.venv\Scripts\Activate
+```
+```properties
+    uvicorn app.main:app --reload
+```
